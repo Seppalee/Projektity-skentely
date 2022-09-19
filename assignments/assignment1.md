@@ -57,11 +57,13 @@ Web page is a standalone application. However, JAMK's log in system must be inte
 - Loaning an e-book
 - Extending loan time
 
-![](/resources/assignment1/usecase.png)
 Use case diagram
 
-![](/resources/assignment1/sequencediagram.png)
+![](/resources/assignment1/usecase.png)
+
 Sequence diagram example of making loan
+
+![](/resources/assignment1/sequencediagram.png)
 
 ##### 2.3 Operating envinonment
 
@@ -84,7 +86,6 @@ Assumptions
 - Website must run flawlessly on deployment
 - Easy to use for users
 - Users may access the page from computer or mobile devices
-- 
 
 Dependencies
 - JAMK's login system is assumed to be embedded on the site for login.
@@ -96,22 +97,22 @@ Dependencies
 
 ###### 3.1.1 Functional requirement 1
 
-Title: Make a loan
-Desc: User can make a new loan on a book that is available for loaning. If not, user can not make the loan. In the case item is in loan already, reference the user to FR 3.
+Title: Make a loan  
+Desc: User can make a new loan on a book that is available for loaning. If not, user can not make the loan. In the case item is in loan already, reference the user to FR 3. Look use case diagram in 2.2 for reference.
 
 ###### 3.1.2 Functional requirement 2
 
-Title: Make a reservation
+Title: Make a reservation  
 Desc: If book is already loaned, user can make reservation for a loan to start after the last loan period has ended.
 
 ###### 3.1.3 Functional requirement 3
 
-Title: Extend loan time
+Title: Extend loan time  
 Desc: If no reservation for the book is made, user can select to extend the loan time for one (1) more loan period at a time.
 
 ###### 3.1.4 Functional requirement 4
 
-Title: Login
+Title: Login  
 Desc: JAMK's log in system must be embedded on the site for users to use their existing credentials for login. No other way for login will be implemented.
 
 ##### 3.2 System requirements
