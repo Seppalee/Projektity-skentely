@@ -31,8 +31,10 @@ The purpose of this document is to build a library management system for replaci
 
 ##### 1.2 Conventions
 
-|DB|Database|
-|FR|Functional Requirement|
+|||
+|---|----|
+| DB | Database |  
+| FR | Functional Requirement |
 
 ##### 1.3 Intended audience
 
