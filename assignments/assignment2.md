@@ -16,5 +16,5 @@ Data flow diagram
 Entity relation diagram 
 ![](../resources/assignment2/ERdiagram.png)
 
-HIPO diagram 
+HIPO diagram  
 ![](../resources/assignment2/HIPOdiagram.png)
