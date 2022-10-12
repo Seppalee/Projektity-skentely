@@ -10,11 +10,11 @@ Visual Paradigm is really advanced looking piece of software. It has quite an ex
 ### 2 JAMK Library project on Visual Paradigm
 I chose Visual Paradigm for the project tool as it seemed vast in terms of features and like professional tool overall. It offers 30-day free trial which I downloaded for use.
 
-Data flow diagram
+Data flow diagram 
 ![](../resources/assignment2/dataflowdiagram.png)
 
-Entity relation diagram
+Entity relation diagram 
 ![](../resources/assignment2/ERdiagram.png)
 
-HIPO diagram
+HIPO diagram 
 ![](../resources/assignment2/HIPOdiagram.png)
